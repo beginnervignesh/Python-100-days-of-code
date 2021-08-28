@@ -1,2 +1,2 @@
 # Python-100-days-of-code
-Exercise code for 100 days of Python
+Project codes for 100 days of Code
